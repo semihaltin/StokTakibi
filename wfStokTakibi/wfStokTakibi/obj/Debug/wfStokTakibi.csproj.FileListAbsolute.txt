@@ -1,0 +1,16 @@
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.exe.config
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.exe
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.pdb
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.frmAnaSayfa.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.Properties.Resources.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.UrunKartlari.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.exe
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.pdb
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.CariSorgulama.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.MusteriCari.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.KasaIslemleri.resources
+C:\Users\SEMİH ALTIN\Desktop\wfStokTakibi\wfStokTakibi\bin\Debug\wfStokTakibi.exe.config
+C:\Users\SEMİH ALTIN\Desktop\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.exe
+C:\Users\SEMİH ALTIN\Desktop\wfStokTakibi\wfStokTakibi\obj\Debug\wfStokTakibi.pdb
